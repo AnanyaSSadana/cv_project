@@ -7,4 +7,4 @@ SimCLR drive folder with datasets and checkpoints: https://drive.google.com/driv
 Steps for SimCLR
 
 1. Set the above drive folder as the working directory for SimCLR.ipynb
-2. Run the entire notebook leaving out the training subsection 
+2. Run the entire notebook leaving out the training subsection (for just inference)
